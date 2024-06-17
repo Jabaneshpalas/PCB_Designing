@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B88069X4760T902
+D Surge Arresters, 2 electrodes Arresters, Nominal DC sparkover voltage = 90V
+K
+F https://product.tdk.com/system/files/dam/doc/product/protection/voltage/arrester/data_sheet/100/ds/m51-c90xsmd-x4760t902.pdf
+$ENDCMP
+#
+#End Doc Library

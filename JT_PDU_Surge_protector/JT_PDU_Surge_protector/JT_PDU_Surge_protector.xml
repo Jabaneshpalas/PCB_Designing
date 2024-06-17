@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\PCB_Designing\JT_PDU_Surge_protector\JT_PDU_Surge_protector\JT_PDU_Surge_protector.kicad_sch</source>
+    <date>08-06-2024 15:30:01</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>JT_PDU_Surge_protector.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="GDT1">
+      <value>B88069X4760T902</value>
+      <footprint>B88069X4760T902:MOV_B88069X4760T902</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/protection/voltage/arrester/data_sheet/100/ds/m51-c90xsmd-x4760t902.pdf</datasheet>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/B88069X4760T902/EPCOS/view-part/?ref=eda</field>
+        <field name="Description">
+Surge Arrestor 2-Electrode Surge Arrestor 90VDC 10KA Thru-Hole
+</field>
+        <field name="MANUFACTURER">TDK</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">5.63 mm</field>
+        <field name="MF">EPCOS</field>
+        <field name="MP">B88069X4760T902</field>
+        <field name="PARTREV">7/29/2022</field>
+        <field name="Package">Axial Cylinder EPCOS</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1303940&amp;manufacturer=EPCOS&amp;part_name=B88069X4760T902&amp;search_term=b88069x4760t902</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/B88069X4760T902/EPCOS/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="B88069X4760T902" part="B88069X4760T902" description=""/>
+      <property name="MF" value="EPCOS"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="5.63 mm"/>
+      <property name="Package" value="Axial Cylinder EPCOS"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/B88069X4760T902/EPCOS/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="7/29/2022"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/B88069X4760T902/EPCOS/view-part/?ref=snap"/>
+      <property name="MP" value="B88069X4760T902"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1303940&amp;manufacturer=EPCOS&amp;part_name=B88069X4760T902&amp;search_term=b88069x4760t902"/>
+      <property name="Description" value="&#xA;Surge Arrestor 2-Electrode Surge Arrestor 90VDC 10KA Thru-Hole&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="TDK"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="JT_PDU_Surge_protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c2b5c35-3da4-4f72-830d-7cbcceb7c1bc</tstamps>
+    </comp>
+    <comp ref="GDT2">
+      <value>B88069X4760T902</value>
+      <footprint>B88069X4760T902:MOV_B88069X4760T902</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/protection/voltage/arrester/data_sheet/100/ds/m51-c90xsmd-x4760t902.pdf</datasheet>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/B88069X4760T902/EPCOS/view-part/?ref=eda</field>
+        <field name="Description">
+Surge Arrestor 2-Electrode Surge Arrestor 90VDC 10KA Thru-Hole
+</field>
+        <field name="MANUFACTURER">TDK</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">5.63 mm</field>
+        <field name="MF">EPCOS</field>
+        <field name="MP">B88069X4760T902</field>
+        <field name="PARTREV">7/29/2022</field>
+        <field name="Package">Axial Cylinder EPCOS</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1303940&amp;manufacturer=EPCOS&amp;part_name=B88069X4760T902&amp;search_term=b88069x4760t902</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/B88069X4760T902/EPCOS/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="B88069X4760T902" part="B88069X4760T902" description=""/>
+      <property name="MF" value="EPCOS"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="5.63 mm"/>
+      <property name="Package" value="Axial Cylinder EPCOS"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/B88069X4760T902/EPCOS/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="7/29/2022"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/B88069X4760T902/EPCOS/view-part/?ref=snap"/>
+      <property name="MP" value="B88069X4760T902"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1303940&amp;manufacturer=EPCOS&amp;part_name=B88069X4760T902&amp;search_term=b88069x4760t902"/>
+      <property name="Description" value="&#xA;Surge Arrestor 2-Electrode Surge Arrestor 90VDC 10KA Thru-Hole&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="TDK"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="JT_PDU_Surge_protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d0a7221-d0c3-4adb-88df-3d48a5f47b02</tstamps>
+    </comp>
+    <comp ref="GDT3">
+      <value>B88069X4760T902</value>
+      <footprint>B88069X4760T902:MOV_B88069X4760T902</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/protection/voltage/arrester/data_sheet/100/ds/m51-c90xsmd-x4760t902.pdf</datasheet>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/B88069X4760T902/EPCOS/view-part/?ref=eda</field>
+        <field name="Description">
+Surge Arrestor 2-Electrode Surge Arrestor 90VDC 10KA Thru-Hole
+</field>
+        <field name="MANUFACTURER">TDK</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">5.63 mm</field>
+        <field name="MF">EPCOS</field>
+        <field name="MP">B88069X4760T902</field>
+        <field name="PARTREV">7/29/2022</field>
+        <field name="Package">Axial Cylinder EPCOS</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1303940&amp;manufacturer=EPCOS&amp;part_name=B88069X4760T902&amp;search_term=b88069x4760t902</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/B88069X4760T902/EPCOS/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="B88069X4760T902" part="B88069X4760T902" description=""/>
+      <property name="MF" value="EPCOS"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="5.63 mm"/>
+      <property name="Package" value="Axial Cylinder EPCOS"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/B88069X4760T902/EPCOS/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="7/29/2022"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/B88069X4760T902/EPCOS/view-part/?ref=snap"/>
+      <property name="MP" value="B88069X4760T902"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1303940&amp;manufacturer=EPCOS&amp;part_name=B88069X4760T902&amp;search_term=b88069x4760t902"/>
+      <property name="Description" value="&#xA;Surge Arrestor 2-Electrode Surge Arrestor 90VDC 10KA Thru-Hole&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="TDK"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="JT_PDU_Surge_protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc6963d7-80a9-4dc4-9d8a-662101f369fa</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="JT_PDU_Surge_protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef60b1bf-c7ce-4e8b-90ff-d089b24c557f</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>1720796</value>
+      <footprint>1720796:PHOENIX_1720796</footprint>
+      <datasheet>https://www.phoenixcontact.com/en-us/products/pcb-header-pc-5-2-gf-762-1720796?type=pdf</datasheet>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/1720796/Phoenix+Contact/view-part/?ref=eda</field>
+        <field name="Description">
+Pluggable Header 7.62mm 8AWG 630V 41A 2 Position COMBICON PC Series | Phoenix Contact 1720796
+</field>
+        <field name="MANUFACTURER">Phoenix Contact</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">14.44mm</field>
+        <field name="MF">Phoenix Contact</field>
+        <field name="MP">1720796</field>
+        <field name="PARTREV">18.07.2018</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4081149&amp;manufacturer=Phoenix Contact&amp;part_name=1720796&amp;search_term=1720796</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/1720796/Phoenix+Contact/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="1720796" part="1720796" description=""/>
+      <property name="MF" value="Phoenix Contact"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="14.44mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/1720796/Phoenix+Contact/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="18.07.2018"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/1720796/Phoenix+Contact/view-part/?ref=snap"/>
+      <property name="MP" value="1720796"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4081149&amp;manufacturer=Phoenix Contact&amp;part_name=1720796&amp;search_term=1720796"/>
+      <property name="Description" value="&#xA;Pluggable Header 7.62mm 8AWG 630V 41A 2 Position COMBICON PC Series | Phoenix Contact 1720796&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Phoenix Contact"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="JT_PDU_Surge_protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06e04902-9573-4362-89a3-705199257c61</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>1708381</value>
+      <footprint>1708381:PHOENIX_1708381</footprint>
+      <datasheet>https://www.phoenixcontact.com/en-us/products/pcb-header-ipc-5-2-g-762-1708381?type=pdf</datasheet>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/1708381/Phoenix+Contact/view-part/?ref=eda</field>
+        <field name="Description">
+Pluggable Header 7.62mm 8AWG 630V 41A 2 Position Combicon Power Series | Phoenix Contact 1708381
+</field>
+        <field name="MANUFACTURER">Phoenix Contact</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">12.95mm</field>
+        <field name="MF">Phoenix Contact</field>
+        <field name="MP">1708381</field>
+        <field name="PARTREV">15.06.2015</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=6688011&amp;manufacturer=Phoenix Contact&amp;part_name=1708381&amp;search_term=1708381</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/1708381/Phoenix+Contact/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="1708381" part="1708381" description=""/>
+      <property name="MF" value="Phoenix Contact"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="12.95mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/1708381/Phoenix+Contact/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="15.06.2015"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/1708381/Phoenix+Contact/view-part/?ref=snap"/>
+      <property name="MP" value="1708381"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=6688011&amp;manufacturer=Phoenix Contact&amp;part_name=1708381&amp;search_term=1708381"/>
+      <property name="Description" value="&#xA;Pluggable Header 7.62mm 8AWG 630V 41A 2 Position Combicon Power Series | Phoenix Contact 1708381&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Phoenix Contact"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="JT_PDU_Surge_protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97438f8b-e035-4b25-80e7-4916522544e3</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="1708381" part="1708381">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">1708381</field>
+        <field name="Footprint">1708381:PHOENIX_1708381</field>
+        <field name="MF">Phoenix Contact</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">12.95mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/1708381/Phoenix+Contact/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">15.06.2015</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/1708381/Phoenix+Contact/view-part/?ref=snap</field>
+        <field name="MP">1708381</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=6688011&amp;manufacturer=Phoenix Contact&amp;part_name=1708381&amp;search_term=1708381</field>
+        <field name="Description">
+Pluggable Header 7.62mm 8AWG 630V 41A 2 Position Combicon Power Series | Phoenix Contact 1708381
+</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Phoenix Contact</field>
+      </fields>
+      <pins>
+        <pin num="1_1" name="1_1" type="passive"/>
+        <pin num="1_2" name="1_2" type="passive"/>
+        <pin num="1_3" name="1_3" type="passive"/>
+        <pin num="2_1" name="2_1" type="passive"/>
+        <pin num="2_2" name="2_2" type="passive"/>
+        <pin num="2_3" name="2_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="1720796" part="1720796">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">1720796</field>
+        <field name="Footprint">1720796:PHOENIX_1720796</field>
+        <field name="MF">Phoenix Contact</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">14.44mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/1720796/Phoenix+Contact/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">18.07.2018</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/1720796/Phoenix+Contact/view-part/?ref=snap</field>
+        <field name="MP">1720796</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4081149&amp;manufacturer=Phoenix Contact&amp;part_name=1720796&amp;search_term=1720796</field>
+        <field name="Description">
+Pluggable Header 7.62mm 8AWG 630V 41A 2 Position COMBICON PC Series | Phoenix Contact 1720796
+</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Phoenix Contact</field>
+      </fields>
+      <pins>
+        <pin num="1_1" name="1_1" type="passive"/>
+        <pin num="1_2" name="1_2" type="passive"/>
+        <pin num="1_3" name="1_3" type="passive"/>
+        <pin num="2_1" name="2_1" type="passive"/>
+        <pin num="2_2" name="2_2" type="passive"/>
+        <pin num="2_3" name="2_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="B88069X4760T902" part="B88069X4760T902">
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">B88069X4760T902</field>
+        <field name="Footprint">B88069X4760T902:MOV_B88069X4760T902</field>
+        <field name="MF">EPCOS</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">5.63 mm</field>
+        <field name="Package">Axial Cylinder EPCOS</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/B88069X4760T902/EPCOS/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">7/29/2022</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/B88069X4760T902/EPCOS/view-part/?ref=snap</field>
+        <field name="MP">B88069X4760T902</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1303940&amp;manufacturer=EPCOS&amp;part_name=B88069X4760T902&amp;search_term=b88069x4760t902</field>
+        <field name="Description">
+Surge Arrestor 2-Electrode Surge Arrestor 90VDC 10KA Thru-Hole
+</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">TDK</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="1708381">
+      <uri>D:\PCB_Designing\JT_PDU_Surge_protector\Lib\1708381\1708381.kicad_sym</uri>
+    </library>
+    <library logical="1720796">
+      <uri>D:\PCB_Designing\JT_PDU_Surge_protector\Lib\1720796\1720796.kicad_sym</uri>
+    </library>
+    <library logical="B88069X4760T902">
+      <uri>D:\PCB_Designing\JT_PDU_Surge_protector\Lib\B88069X4760T902\B88069X4760T902.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Earth">
+      <node ref="GDT2" pin="2" pintype="passive"/>
+      <node ref="GDT3" pin="1" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+    </net>
+    <net code="2" name="Net-(GDT1-Pad1)">
+      <node ref="GDT1" pin="1" pintype="passive"/>
+      <node ref="GDT3" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1_1" pinfunction="1_1" pintype="passive"/>
+      <node ref="J1" pin="1_2" pinfunction="1_2" pintype="passive"/>
+      <node ref="J1" pin="1_3" pinfunction="1_3" pintype="passive"/>
+      <node ref="J2" pin="1_1" pinfunction="1_1" pintype="passive"/>
+      <node ref="J2" pin="1_2" pinfunction="1_2" pintype="passive"/>
+      <node ref="J2" pin="1_3" pinfunction="1_3" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(GDT1-Pad2)">
+      <node ref="GDT1" pin="2" pintype="passive"/>
+      <node ref="GDT2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2_1" pinfunction="2_1" pintype="passive"/>
+      <node ref="J1" pin="2_2" pinfunction="2_2" pintype="passive"/>
+      <node ref="J1" pin="2_3" pinfunction="2_3" pintype="passive"/>
+      <node ref="J2" pin="2_1" pinfunction="2_1" pintype="passive"/>
+      <node ref="J2" pin="2_2" pinfunction="2_2" pintype="passive"/>
+      <node ref="J2" pin="2_3" pinfunction="2_3" pintype="passive"/>
+    </net>
+  </nets>
+</export>

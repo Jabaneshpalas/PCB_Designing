@@ -1,0 +1,37 @@
+"Source:","D:\PCB_Designing\BBNL_PDU_Protector\BBNL_PDU_Protector.kicad_sch"
+"Date:","15-06-2024 15:14:32"
+"Tool:","Eeschema (6.0.7)"
+"Generator:","C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","15"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","D1","5.0SMDJ75A","Diode:1.5KExxA","Diode_THT:D_DO-201AE_P15.24mm_Horizontal","https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_5_0smdj_datasheet.pdf.pdf"
+"","","D2","5.0SMDJ75A","Diode:1.5KExxA","Diode_THT:D_DO-201AE_P15.24mm_Horizontal","https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_5_0smdj_datasheet.pdf.pdf"
+"","","D3","5.0SMDJ75A","Diode:1.5KExxA","Diode_THT:D_DO-201AE_P15.24mm_Horizontal","https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_5_0smdj_datasheet.pdf.pdf"
+"","","F1","Fuse","Device:Fuse","","~"
+"","","F2","Fuse","Device:Fuse","","~"
+"","","GD1","	B88069X4760T902","Device:GDT_2Pin","","https://product.tdk.com/system/files/dam/doc/product/protection/voltage/arrester/data_sheet/100/ds/m51-c90xsmd-x4760t902.pdf"
+"","","GD2","	B88069X4760T902","Device:GDT_2Pin","","https://product.tdk.com/system/files/dam/doc/product/protection/voltage/arrester/data_sheet/100/ds/m51-c90xsmd-x4760t902.pdf"
+"","","GD3","	B88069X4760T902","Device:GDT_2Pin","","https://product.tdk.com/system/files/dam/doc/product/protection/voltage/arrester/data_sheet/100/ds/m51-c90xsmd-x4760t902.pdf"
+"","","J1","1720796","Connector_Generic:Conn_01x02","","https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/524/1720796.pdf"
+"","","J2","1708381","Connector_Generic:Conn_01x02","","https://www.phoenixcontact.com/en-us/products/pcb-header-ipc-5-2-g-762-1708381?type=pdf"
+"","","L1","L","Device:L","","~"
+"","","L2","L","Device:L","","~"
+"","","RV1","V100ZA15P","Device:Varistor","","https://m.littelfuse.com/media?resourcetype=datasheets&itemid=67eb757a-126c-4f75-9f64-051f5de9b097&filename=littelfuse-varistor-za-datasheet"
+"","","RV2","V100ZA15P","Device:Varistor","","https://m.littelfuse.com/media?resourcetype=datasheets&itemid=67eb757a-126c-4f75-9f64-051f5de9b097&filename=littelfuse-varistor-za-datasheet"
+"","","RV3","V100ZA15P","Device:Varistor","","https://m.littelfuse.com/media?resourcetype=datasheets&itemid=67eb757a-126c-4f75-9f64-051f5de9b097&filename=littelfuse-varistor-za-datasheet"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","3","D1, D2, D3","5.0SMDJ75A","Diode:1.5KExxA","Diode_THT:D_DO-201AE_P15.24mm_Horizontal","https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_5_0smdj_datasheet.pdf.pdf"
+"2","2","F1, F2","Fuse","Device:Fuse","","~"
+"3","3","GD1, GD2, GD3","	B88069X4760T902","Device:GDT_2Pin","","https://product.tdk.com/system/files/dam/doc/product/protection/voltage/arrester/data_sheet/100/ds/m51-c90xsmd-x4760t902.pdf"
+"4","1","J1","1720796","Connector_Generic:Conn_01x02","","https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/524/1720796.pdf"
+"5","1","J2","1708381","Connector_Generic:Conn_01x02","","https://www.phoenixcontact.com/en-us/products/pcb-header-ipc-5-2-g-762-1708381?type=pdf"
+"6","2","L1, L2","L","Device:L","","~"
+"7","3","RV1, RV2, RV3","V100ZA15P","Device:Varistor","","https://m.littelfuse.com/media?resourcetype=datasheets&itemid=67eb757a-126c-4f75-9f64-051f5de9b097&filename=littelfuse-varistor-za-datasheet"

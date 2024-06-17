@@ -1,0 +1,12 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"EO1,Lo1,No1";"out";3;"Conn_01x01";;;
+2;"Lin1";"quickfit_PCB";1;"Lin";;;
+3;"H4,H2,H1,H3";"MountingHole_5mm_Pad";4;"MountingHole_Pad";;;
+4;"PTC1";"B72220S0321K101";1;"Thermistor_PTC_US";;;
+5;"L2,L1";"CCU_IND";2;"INDUCTOR";;;
+6;"Nin1";"quickfit_PCB";1;"Nin";;;
+7;"MOV1,MOV5,MOV2,MOV3,MOV4";"B72220S0321K101";5;"Varistor_US";;;
+8;"F2,F1";"8040.2012_1";2;"6A DC";;;
+9;"RT1";"B72220S0321K101";1;"Thermistor_NTC";;;
+10;"GDT2,GDT1";"CCU_GDT";2;"GDT_2Pin";;;
+11;"Gin1";"quickfit_PCB";1;"Gin";;;
