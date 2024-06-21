@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "ACSPD")(type "KiCad")(uri "D:/PCB_Designing/JT_CCU_AC_Surge_Protection_Board/JT_CCU_AC_Surge_Protection_Board/Lib/ACSPD.pretty")(options "")(descr ""))
+)
