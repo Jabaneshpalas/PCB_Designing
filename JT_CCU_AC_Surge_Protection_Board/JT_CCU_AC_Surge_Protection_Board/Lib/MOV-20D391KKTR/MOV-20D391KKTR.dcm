@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MOV-20D391KKTR
+D 20mm Radial Disc MOV - Kinked Leads, T&R
+K
+F https://www.bourns.com/docs/product-datasheets/mov20d.pdf
+$ENDCMP
+#
+#End Doc Library

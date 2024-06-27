@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP P6KE36CA
+D 600 W, 31 V TVS in DO-15
+K
+F https://www.st.com/resource/en/datasheet/p6ke12ca.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GMOV-20D251K
+D GMOV 20mm, 250Vrms
+K
+F https://componentsearchengine.com/Datasheets/1/GMOV-20D251K.pdf
+$ENDCMP
+#
+#End Doc Library
