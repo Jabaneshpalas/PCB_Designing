@@ -1,0 +1,16 @@
+.5.0SMDJ75A :1 ;ESD Suppressors / TVS Diodes 5kW 75V 5% Uni-Directional
+DIOM7959X262N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN 5.0SMDJ75A
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (LITTELFUSE)
+~!Manufacturer_Part_Number (5.0SMDJ75A)
+~!Link Datasheet (https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_5_0smdj_datasheet.pdf.pdf)
+~!Height (2.62mm)
+~!3D_Model (5.0SMDJ75A)
+"5.0SMDJ75A"
+1.1!U 2.1!U 

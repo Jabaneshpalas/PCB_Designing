@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\PCB_Designing\BBNL_PDU_Protector\BBNL_PDU_Protector.kicad_sch</source>
+    <date>15-06-2024 15:14:32</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BBNL_PDU_Protector.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>5.0SMDJ75A</value>
+      <datasheet>https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_5_0smdj_datasheet.pdf.pdf</datasheet>
+      <libsource lib="Diode" part="1.5KExxA" description="1500W unidirectional TRANSZORB® Transient Voltage Suppressor, DO-201AE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BBNL_PDU_Protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b5ab937-cfe2-43a0-81ed-373f6cce18d4</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>5.0SMDJ75A</value>
+      <datasheet>https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_5_0smdj_datasheet.pdf.pdf</datasheet>
+      <libsource lib="Diode" part="1.5KExxA" description="1500W unidirectional TRANSZORB® Transient Voltage Suppressor, DO-201AE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BBNL_PDU_Protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71c2f061-f996-4a2e-8f4d-a37f0c99048c</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>5.0SMDJ75A</value>
+      <datasheet>https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_5_0smdj_datasheet.pdf.pdf</datasheet>
+      <libsource lib="Diode" part="1.5KExxA" description="1500W unidirectional TRANSZORB® Transient Voltage Suppressor, DO-201AE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BBNL_PDU_Protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7ef2ac5-32a9-4e60-819a-9bc9d2854f73</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>Fuse</value>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BBNL_PDU_Protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0bd266a2-958e-4ab0-8e4f-1f0e993b43f0</tstamps>
+    </comp>
+    <comp ref="F2">
+      <value>Fuse</value>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BBNL_PDU_Protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>effbf5b8-44fd-4bf5-a34a-84ad6447bfea</tstamps>
+    </comp>
+    <comp ref="GD1">
+      <value>	B88069X4760T902</value>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/protection/voltage/arrester/data_sheet/100/ds/m51-c90xsmd-x4760t902.pdf</datasheet>
+      <libsource lib="Device" part="GDT_2Pin" description="Gas Discharge Tube with 2 Pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BBNL_PDU_Protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79fd1579-ba9e-420c-abc4-8597e4fa9f51</tstamps>
+    </comp>
+    <comp ref="GD2">
+      <value>	B88069X4760T902</value>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/protection/voltage/arrester/data_sheet/100/ds/m51-c90xsmd-x4760t902.pdf</datasheet>
+      <libsource lib="Device" part="GDT_2Pin" description="Gas Discharge Tube with 2 Pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BBNL_PDU_Protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c1b71ef-48d9-4d53-b657-721c8baf17b7</tstamps>
+    </comp>
+    <comp ref="GD3">
+      <value>	B88069X4760T902</value>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/protection/voltage/arrester/data_sheet/100/ds/m51-c90xsmd-x4760t902.pdf</datasheet>
+      <libsource lib="Device" part="GDT_2Pin" description="Gas Discharge Tube with 2 Pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BBNL_PDU_Protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>641b67d8-51fa-41ac-b114-400f508e27b6</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>1720796</value>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/524/1720796.pdf</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BBNL_PDU_Protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>301c6649-3899-4959-aec0-eafbf1a37494</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>1708381</value>
+      <datasheet>https://www.phoenixcontact.com/en-us/products/pcb-header-ipc-5-2-g-762-1708381?type=pdf</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BBNL_PDU_Protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4fb1a9a-e78b-40d1-9b6f-d6700c069619</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>L</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BBNL_PDU_Protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f018c42-5cf3-466c-9b67-bdfe79380d89</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>L</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BBNL_PDU_Protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a07d1742-0b08-42b4-9839-57a5bc21f452</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>V100ZA15P</value>
+      <datasheet>https://m.littelfuse.com/media?resourcetype=datasheets&amp;itemid=67eb757a-126c-4f75-9f64-051f5de9b097&amp;filename=littelfuse-varistor-za-datasheet</datasheet>
+      <libsource lib="Device" part="Varistor" description="Voltage dependent resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BBNL_PDU_Protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1406001-f571-42b2-94eb-6696c25c4d03</tstamps>
+    </comp>
+    <comp ref="RV2">
+      <value>V100ZA15P</value>
+      <datasheet>https://m.littelfuse.com/media?resourcetype=datasheets&amp;itemid=67eb757a-126c-4f75-9f64-051f5de9b097&amp;filename=littelfuse-varistor-za-datasheet</datasheet>
+      <libsource lib="Device" part="Varistor" description="Voltage dependent resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BBNL_PDU_Protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d26558dc-8289-47c9-a09a-146accc1dca1</tstamps>
+    </comp>
+    <comp ref="RV3">
+      <value>V100ZA15P</value>
+      <datasheet>https://m.littelfuse.com/media?resourcetype=datasheets&amp;itemid=67eb757a-126c-4f75-9f64-051f5de9b097&amp;filename=littelfuse-varistor-za-datasheet</datasheet>
+      <libsource lib="Device" part="Varistor" description="Voltage dependent resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BBNL_PDU_Protector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>556242ec-30c2-42b1-9fbd-34e38fe915a6</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse">
+      <description>Fuse</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="GDT_2Pin">
+      <description>Gas Discharge Tube with 2 Pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">GD</field>
+        <field name="Value">GDT_2Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Varistor">
+      <description>Voltage dependent resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>RV_*</fp>
+        <fp>Varistor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">Varistor</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1.5KExxA">
+      <description>1500W unidirectional TRANSZORB® Transient Voltage Suppressor, DO-201AE</description>
+      <docs>https://www.vishay.com/docs/88301/15ke.pdf</docs>
+      <footprints>
+        <fp>D?DO?201AE*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1.5KExxA</field>
+        <field name="Footprint">Diode_THT:D_DO-201AE_P15.24mm_Horizontal</field>
+        <field name="Datasheet">https://www.vishay.com/docs/88301/15ke.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="passive"/>
+        <pin num="2" name="A2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(F1-Pad1)">
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(F1-Pad2)">
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="GD1" pin="1" pintype="passive"/>
+      <node ref="GD2" pin="3" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RV1" pin="2" pintype="passive"/>
+      <node ref="RV2" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(F2-Pad1)">
+      <node ref="F2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(F2-Pad2)">
+      <node ref="F2" pin="2" pintype="passive"/>
+      <node ref="GD2" pin="1" pintype="passive"/>
+      <node ref="GD3" pin="3" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RV2" pin="2" pintype="passive"/>
+      <node ref="RV3" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(GD1-Pad3)">
+      <node ref="D1" pin="2" pinfunction="A2" pintype="passive"/>
+      <node ref="GD1" pin="3" pintype="passive"/>
+      <node ref="RV1" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(GD3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="GD3" pin="1" pintype="passive"/>
+      <node ref="RV3" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(J2-Pad1)">
+      <node ref="D1" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A2" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(J2-Pad2)">
+      <node ref="D2" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+  </nets>
+</export>
